@@ -1,5 +1,5 @@
-Steps to run Maven Calculator:
+**Maven Calculator**
 
-1. Open terminal and redirect to MavenCalculator
+To check the Maven Calculator:
 
-2. type: mvn package exec:java
+$ mvn clean verify
